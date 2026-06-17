@@ -16,4 +16,10 @@ An interactive, multi-dimensional Business Intelligence Terminal engineered to m
 * **Interactive Control Console:** Triple-Threat Slicer panels (`City`, `Job Role`) cross-linked via Report Connections to execute instantaneous real-time filtering across all UI charts
 
 ## 📈 Key Strategic Data Insights Captured
-* **Premium Campus & Administrative Windows: High-fidelity data filtering reveals that corporate administrative and on-campus support roles (like Receptionist and IT Helpdesk) command the highest average market wages (£13.40), highlighting them as prime vectors for international student career optimization over standard general labor.
+* **Premium Campus & Administrative Windows: High-fidelity data filtering reveals that corporate administrative and on-campus support roles (like Receptionist and IT Helpdesk) command the highest average market wages (£13.40), highlighting them as prime vectors for international student career optimization over standard general labor
+## ⚙️ Deployment & Verification Instructions
+
+1. Download the master repository dataset: `UK-Student-Job-Market-Analytics.xlsx`.
+2. Open using an enterprise instance of Microsoft Excel (v16.0 or higher with macros enabled).
+3. Utilize the frontend regional and industrial Slicer matrices to execute instantaneous real-time filtering across multi-tier UK student labor parameters.
+
