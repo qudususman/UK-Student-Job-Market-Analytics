@@ -16,5 +16,4 @@ An interactive, multi-dimensional Business Intelligence Terminal engineered to m
 * **Interactive Control Console:** Triple-Threat Slicer panels (`City`, `Job Role`) cross-linked via Report Connections to execute instantaneous real-time filtering across all UI charts
 
 ## 📈 Key Strategic Data Insights Captured
-* **Peak Capital Windows:** Automated timeline filters reveal December drops in operational travel parameters (due to university holiday periods), flagging it as the prime season for strategic savings and max student work hour utilization [13.2, 17.3].
-* **Expenditure Spike Mitigation:** Models a +23% landing budget leakage on core grocery lines, flagging an operational necessity to transition sourcing strategy straight to Aldi or Lidl platforms to preserve cash buffers 
+* **Premium Campus & Administrative Windows: High-fidelity data filtering reveals that corporate administrative and on-campus support roles (like Receptionist and IT Helpdesk) command the highest average market wages (£13.40), highlighting them as prime vectors for international student career optimization over standard general labor.
