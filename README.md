@@ -1,4 +1,4 @@
-# UK Housing Rent Variance & Student Market Optimization Matrix
+# UK Student JOB Market Optimization Matrix
 
 An interactive, multi-dimensional Business Intelligence Terminal engineered to model regional West Yorkshire labor parameters, track plan vs. reality cost structures, and optimize student landing cash flows.
 
